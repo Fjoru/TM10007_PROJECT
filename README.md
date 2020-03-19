@@ -4,7 +4,7 @@ Read the project guidelines (TM10007_projectguidelines.pdf) and work out your so
 
 # Gebruiksaanwijzing
 
-de opdracht wordt gemaakt in de assignment.ipynb. om deze te openen in colab gebuik: [![Open In Colab](https://colab.research.google.com/github/Fjoru/TM10007_PROJECT/blob/master/assignment.ipynb)
+de opdracht wordt gemaakt in de assignment.ipynb. om deze te openen in colab gebuik: [![Open In Colab](https://colab.research.google.com/github/Fjoru/TM10007_PROJECT/blob/master/assignment.ipynb)]
 Dit opent de file in colab, hierin kunnen gezamelijk werken en opslaan.
 
 Om het bestand hier op te slaan push je via, File --> Save a copy in Github.
